@@ -34,6 +34,14 @@ set sessionoptions=curdir,buffers,tabpages
 set nocompatible
 " Indentation
 set foldmethod=indent
+" Ruler
+set colorcolumn=90
+highlight ColorColumn ctermbg=gray
+" Leader key
+let mapleader=,
+
+" Default completion
+set omnifunc=syntaxcomplete#Complete
 
 " .vimrc-onchange reloading
 if has('autocmd')

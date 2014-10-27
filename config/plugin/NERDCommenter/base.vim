@@ -1,3 +1,3 @@
-nmap <C-/> |NERDComToggleComment|
-imap <C-/> |NERDComToggleComment|
-vmap <C-/> |MERDComToggleComment|
+nmap <leader>/ <Plug>NERDCommenterToggle
+imap <leader>/ <Plug>NERDCommenterToggle
+vmap <leader>/ <Plug>NERDCommenterToggle

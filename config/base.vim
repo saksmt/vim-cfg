@@ -38,7 +38,7 @@ set foldmethod=indent
 set colorcolumn=90
 highlight ColorColumn ctermbg=gray
 " Leader key
-let mapleader=,
+let mapleader=','
 
 " Default completion
 set omnifunc=syntaxcomplete#Complete

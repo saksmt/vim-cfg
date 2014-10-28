@@ -6,5 +6,3 @@ set nu
 set showcmd
 " Status line
 set laststatus=2
-" Tabs panel
-set showtabline

@@ -19,3 +19,5 @@ set fu
 set cursorline
 " Font
 set guifont=Source\ Code\ Pro\ 11
+" Tabs panel
+set showtabline

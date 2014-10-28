@@ -55,3 +55,9 @@
 [submodule "bundle/L9"]
 	path = bundle/L9
 	url = https://github.com/vim-scripts/L9.git
+[submodule "bundle/pdv"]
+	path = bundle/pdv
+	url = https://github.com/vim-scripts/PDV--phpDocumentor-for-Vim
+[submodule "bundle/phpcomplete.vim"]
+	path = bundle/phpcomplete.vim
+	url = https://github.com/shawncplus/phpcomplete.vim.git

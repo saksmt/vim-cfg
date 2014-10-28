@@ -6,6 +6,9 @@ My vim config.
 If you want to use it:
 
     git clone https://github.com/saksmt/vim-cfg.git ~/.vim
+    cd ~/.vim/
+    git submodule init
+    git submodule update --recursive
     ln -s ~/.vim/vimrc ~/.vimrc
 
 
@@ -30,6 +33,8 @@ Symfony | *included* | https://github.com/docteurklein/vim-symfony | Symfony2 pl
 Twig | *included* | https://github.com/evidens/vim-twig | Twig plugin
 xmledit | *included* | https://github.com/sukima/xmledit | XML plugin
 Pathogen | *included* | https://github.com/tpope/vim-pathogen | Plugin manager
+PDV--phpDocumentor-for-Vim | *included* | https://github.com/vim-scripts/PDV--phpDocumentor-for-Vim | Generate php doc-block
+PHPComplete.vim | *included* | https://github.com/shawncplus/phpcomplete.vim | Improved PHP completion
 Powerline | **can't include** | https://github.com/Lokaltog/powerline | Nice statusline plugin
 
 **Font**: *Source Code Pro*

@@ -22,9 +22,6 @@
 [submodule "bundle/vim-angular"]
 	path = bundle/vim-angular
 	url = https://github.com/burnettk/vim-angular.git
-[submodule "bundle/vim-autocomplpop"]
-	path = bundle/vim-autocomplpop
-	url = https://github.com/othree/vim-autocomplpop.git
 [submodule "bundle/vim-buffergator"]
 	path = bundle/vim-buffergator
 	url = https://github.com/jeetsukumaran/vim-buffergator.git
@@ -52,12 +49,30 @@
 [submodule "bundle/xmledit"]
 	path = bundle/xmledit
 	url = https://github.com/sukima/xmledit
-[submodule "bundle/L9"]
-	path = bundle/L9
-	url = https://github.com/vim-scripts/L9.git
 [submodule "bundle/pdv"]
 	path = bundle/pdv
 	url = https://github.com/vim-scripts/PDV--phpDocumentor-for-Vim
-[submodule "bundle/phpcomplete.vim"]
-	path = bundle/phpcomplete.vim
-	url = https://github.com/shawncplus/phpcomplete.vim.git
+[submodule "bundle/taglist.vim"]
+	path = bundle/taglist.vim
+	url = https://github.com/vim-scripts/taglist.vim.git
+[submodule "bundle/L9"]
+	path = bundle/L9
+	url = https://github.com/vim-scripts/L9.git
+[submodule "bundle/neocomplete"]
+	path = bundle/neocomplete
+	url = https://github.com/Shougo/neocomplete.vim.git
+[submodule "bundle/neosnippet"]
+	path = bundle/neosnippet
+	url = https://github.com/Shougo/neosnippet.vim.git
+[submodule "bundle/neosnippet-snippets"]
+	path = bundle/neosnippet-snippets
+	url = https://github.com/Shougo/neosnippet-snippets
+[submodule "bundle/vimproc.vim"]
+	path = bundle/vimproc.vim
+	url = https://github.com/Shougo/vimproc.vim.git
+[submodule "bundle/phpcomplete-extended"]
+	path = bundle/phpcomplete-extended
+	url = https://github.com/m2mdas/phpcomplete-extended.git
+[submodule "bundle/phpcomplete-extended-symfony"]
+	path = bundle/phpcomplete-extended-symfony
+	url = https://github.com/m2mdas/phpcomplete-extended-symfony

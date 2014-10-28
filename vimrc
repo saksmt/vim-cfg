@@ -11,6 +11,8 @@ call IncludeConfig('/plugin/NERDCommenter/base.vim')
 call IncludeConfig('/plugin/syntastic/base.vim')
 call IncludeConfig('/plugin/filetype/base.vim')
 call IncludeConfig('/plugin/ctrlp/base.vim')
+call IncludeConfig('/plugin/pdv/base.vim')
+call IncludeConfig('/plugin/phpcomplete/base.vim')
 call IncludeConfig('/lang/base.vim')
 
 if has('gui_running')

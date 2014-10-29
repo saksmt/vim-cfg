@@ -6,13 +6,15 @@ endfunction
 
 call IncludeConfig('/base.vim')
 call IncludeConfig('/ui.vim')
+call IncludeConfig('/plugin/filetype/base.vim')
 call IncludeConfig('/plugin/NERDTree/base.vim')
 call IncludeConfig('/plugin/NERDCommenter/base.vim')
 call IncludeConfig('/plugin/syntastic/base.vim')
-call IncludeConfig('/plugin/filetype/base.vim')
 call IncludeConfig('/plugin/ctrlp/base.vim')
 call IncludeConfig('/plugin/pdv/base.vim')
-call IncludeConfig('/plugin/phpcomplete/base.vim')
+call IncludeConfig('/plugin/neocomplete/base.vim')
+call IncludeConfig('/plugin/phpcomplete-extended/base.vim')
+call IncludeConfig('/plugin/taglist/base.vim')
 call IncludeConfig('/lang/base.vim')
 
 if has('gui_running')

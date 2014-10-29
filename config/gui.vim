@@ -1,6 +1,6 @@
 colorscheme darcula
 " Default charset
-set anti enc=utf-8
+"set anti enc=utf-8
 " Remove menubar
 set guioptions-=m
 " Remove toolbar

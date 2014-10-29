@@ -3,10 +3,11 @@ vim-cfg
 
 My vim config.
 
-If you want to use it:
+If you want to use it(use testing branch!):
 
     git clone https://github.com/saksmt/vim-cfg.git ~/.vim
     cd ~/.vim/
+    git checkout testing
     git submodule init
     git submodule update --recursive
     ln -s ~/.vim/vimrc ~/.vimrc
@@ -27,17 +28,22 @@ Buffergator | *included* | https://github.com/jeetsukumaran/vim-buffergator | Bu
 Easymotion | *included* | https://github.com/Lokaltog/vim-easymotion | Just use, don't ask :)
 Javascript | *included* | https://github.com/pangloss/vim-javascript | Javascript vim plugin
 NERDTree-tabs | *included* | https://github.com/jistr/vim-nerdtree-tabs | Fixes for NERDTree to be global panel or something like that
-Snipmate | *included* | https://github.com/msanders/snipmate.vim | Snippet support
-Snippets | *included* | https://github.com/honza/vim-snippets | Snippets
-Symfony | *included* | https://github.com/docteurklein/vim-symfony | Symfony2 plugin
 Twig | *included* | https://github.com/evidens/vim-twig | Twig plugin
 xmledit | *included* | https://github.com/sukima/xmledit | XML plugin
 Pathogen | *included* | https://github.com/tpope/vim-pathogen | Plugin manager
 PDV--phpDocumentor-for-Vim | *included* | https://github.com/vim-scripts/PDV--phpDocumentor-for-Vim | Generate php doc-block
-PHPComplete.vim | *included* | https://github.com/shawncplus/phpcomplete.vim | Improved PHP completion
+PHPCompleteExtended | *included* | https://github.com/m2mdas/phpcomplete-extended | PHP completion(best I've ever seen)
+PHPCompleteExtended-Symfony | *included* | https://github.com/m2mdas/phpcomplete-extended-symfony | Addon for PHPCompletion for Symfony2 framework
+Neocomplete | *included* | https://github.com/Shougo/neocomplete.vim | Base on-type completion
+Neosnippet | *included* | https://github.com/Shougo/neosnippet.vim | Addon for neocomplete with snippet support
+Neosnippet-snippets | *included* | https://github.com/Shougo/neosnippet-snippets | Snippets
+Vimshell | *included* | https://github.com/Shougo/vimshell.vim | Integrated shell
+Neossh | *included* | https://github.com/Shougo/neossh.vim | SSH Integration
+Javacomplete | *included* | https://github.com/Shougo/javacomplete | Java completion
 Powerline | **can't include** | https://github.com/Lokaltog/powerline | Nice statusline plugin
 
 **Font**: *Source Code Pro*
+
 **GUI used**: *vim-qt*
  
 

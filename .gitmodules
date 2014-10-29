@@ -76,3 +76,15 @@
 [submodule "bundle/phpcomplete-extended-symfony"]
 	path = bundle/phpcomplete-extended-symfony
 	url = https://github.com/m2mdas/phpcomplete-extended-symfony
+[submodule "bundle/Vim-PHP-Stuff"]
+	path = bundle/Vim-PHP-Stuff
+	url = https://github.com/paulyg/Vim-PHP-Stuff.git
+[submodule "bundle/vimshell.vim"]
+	path = bundle/vimshell.vim
+	url = https://github.com/Shougo/vimshell.vim.git
+[submodule "bundle/neossh.vim"]
+	path = bundle/neossh.vim
+	url = https://github.com/Shougo/neossh.vim.git
+[submodule "bundle/javacomplete"]
+	path = bundle/javacomplete
+	url = https://github.com/Shougo/javacomplete.git
